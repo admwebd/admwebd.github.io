@@ -1,0 +1,12 @@
+node_modules
+content
+dist
+gite.cmd
+.cache
+*.log
+*.cmd
+*.sh
+.env
+.env.js
+.env.json
+.env-cmdrc
